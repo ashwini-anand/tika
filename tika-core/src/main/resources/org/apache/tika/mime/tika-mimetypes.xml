@@ -53,6 +53,9 @@
     <glob pattern="*.aw"/>
   </mime-type>
 
+  <mime-type type="application/orc">
+  </mime-type>
+
   <mime-type type="text/iso19139+xml">
 	  <root-XML localName="MD_metadata"/>
 	  <root-XML localName="MD_metadata" namespaceURI="http://www.isotc211.org/2005/gmd"/>
